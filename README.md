@@ -58,10 +58,10 @@ cd book-api-laravel-flutter
    cp .env.example .env
    php artisan key:generate
    ```
-4. Run migrations to create the books table:
+4. Run the migration and seeder to create the table and book dummy data:
 
     ```
-    php artisan migrate
+    php artisan migrate --seed
     ```
 
 5. Start the Laravel development server:
