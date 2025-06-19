@@ -1,4 +1,4 @@
-# Book API Laravel & Flutter
+# Book API Laravel & Flutter <span style="font-size: 11px">`(October 2024)`</span>
 
 A simple demo project integrating **Laravel 11 REST API** for managing book data with a **Flutter** client for consuming the API.  
 The backend is built with Laravel 11, providing RESTful endpoints to manage books, while the frontend is a Flutter application that interacts with the API to display and manage book data.
@@ -109,6 +109,22 @@ Make sure the Flutter app is configured to point to the Laravel API URL (e.g., `
 - This project is ideal for learning how to integrate Laravel REST API with Flutter.
 - You can extend the backend with authentication, validation, and more features.
 - The Flutter app demonstrates basic API consumption including displaying and managing book data.
+
+---
+
+### YouTube Videos
+
+If you're interested in understanding how the API and Flutter work together, feel free to check out these video tutorials:
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;" align="center">
+    <a href="https://youtu.be/SCegRze8ebs?si=yo3AeT6JLK0PLAhp" target="_blank">
+        <img src="https://img.youtube.com/vi/SCegRze8ebs/0.jpg" width="399" alt="How to Make an API">
+    </a>
+    <a href="https://youtu.be/AgtDil9K9e0?si=Hrnob4URyLO7YZfJ" target="_blank">
+        <img src="https://img.youtube.com/vi/AgtDil9K9e0/0.jpg" width="399" alt="How Flutter Works with API">
+    </a>
+</div>
+
 
 ---
 
