@@ -118,10 +118,10 @@ If you're interested in understanding how the API and Flutter work together, fee
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;" align="center">
     <a href="https://youtu.be/SCegRze8ebs?si=yo3AeT6JLK0PLAhp" target="_blank">
-        <img src="https://img.youtube.com/vi/SCegRze8ebs/0.jpg" width="399" alt="How to Make an API">
+        <img src="https://img.youtube.com/vi/SCegRze8ebs/3.jpg" width="397" alt="How to Make an API">
     </a>
     <a href="https://youtu.be/AgtDil9K9e0?si=Hrnob4URyLO7YZfJ" target="_blank">
-        <img src="https://img.youtube.com/vi/AgtDil9K9e0/0.jpg" width="399" alt="How Flutter Works with API">
+        <img src="https://img.youtube.com/vi/AgtDil9K9e0/3.jpg" width="397" alt="How Flutter Works with API">
     </a>
 </div>
 
