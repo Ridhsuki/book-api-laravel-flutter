@@ -93,8 +93,8 @@ Make sure the Flutter app is configured to point to the Laravel API URL (e.g., `
 
 ### API Screenshot
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;" align="center">
-      <img src="assets/api1.png" width="430" alt="API 1 Screenshot">
-      <img src="assets/api2.png" width="430" alt="API 2 Screenshot">
+      <img src="assets/api1.png" width="407" alt="API 1 Screenshot">
+      <img src="assets/api2.png" width="407" alt="API 2 Screenshot">
 </div>
 
 ### Flutter App Screenshot  
